@@ -1,0 +1,1 @@
+# vesta-cp-config
